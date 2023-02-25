@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/saturday-redux/static/css/main.7acaea2f.css",
-    "main.js": "/saturday-redux/static/js/main.0a79a433.js",
+    "main.js": "/saturday-redux/static/js/main.4cb7902d.js",
     "index.html": "/saturday-redux/index.html",
     "main.7acaea2f.css.map": "/saturday-redux/static/css/main.7acaea2f.css.map",
-    "main.0a79a433.js.map": "/saturday-redux/static/js/main.0a79a433.js.map"
+    "main.4cb7902d.js.map": "/saturday-redux/static/js/main.4cb7902d.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.0a79a433.js"
+    "static/js/main.4cb7902d.js"
   ]
 }
